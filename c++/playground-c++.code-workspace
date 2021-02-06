@@ -4,5 +4,13 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"*.py": "python",
+			"algorithm": "cpp",
+			"deque": "cpp",
+			"*.tcc": "cpp",
+			"set": "cpp"
+		}
+	}
 }
