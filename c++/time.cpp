@@ -33,7 +33,9 @@ int main()
     string time = "10:11:03 2300";
     string sub1 = time.substr(0, 9);
     string sub2 = time.substr(9);
+    sub1.c_str();
     int test = get_secs(time);
+    float delta = abs(price - num) * 100
     string test2 = get_time(test, 70);
     cout << "TEST DEBUG " << __FILE__ << endl;
     return 0;

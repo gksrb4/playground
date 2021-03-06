@@ -10,7 +10,9 @@
 			"algorithm": "cpp",
 			"deque": "cpp",
 			"*.tcc": "cpp",
-			"set": "cpp"
+			"set": "cpp",
+			"unordered_map": "cpp",
+			"queue": "cpp"
 		}
 	}
 }
